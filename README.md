@@ -82,22 +82,6 @@
 
 
 
-<h2 align="center"><u>My Best Works</u></h2>
-
-| Name                  | Description                                            |
-| ----------------------|------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[MaxPhisher](https://github.com/KasRoudra/MaxPhisher)_                          | A python script for login phishing, image phishing and more   |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
-| _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     |
-| _[SupremeFolio](https://github.com/KasRoudra/supremeFolio)_                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              | 
-| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                          | Hack anyone's camera with a phishing link.                      |
-| _[Github-Stats](https://github.com/KasRoudra/github-stats)_                    | Generate a card with yout github statistics                     |
-| _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
-| _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                          | Play music in termux by mpv.                                    |
-| _[Oh-My-Shell](https://github.com/KasRoudra/oh-my-shell)_                      | Empower your terminal with the might of fish and omf            |
-| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                        | Encrypt or decrypt shell script and compile python scripts      |
-| _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_                | Expose locally hosted website into all over internet.           |
 
 <h4 align="center">All of these are open source!</h4>
 
@@ -117,6 +101,5 @@
 
 <a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
 
-<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
 
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:jayhind3570@gmail.com target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
