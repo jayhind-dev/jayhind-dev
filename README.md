@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 <br>
-<img src="https://gpvc.arturio.dev/KasRoudra">
+<img src="https://gpvc.arturio.dev/jayhind-dev">
 </p>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center"><u>Personal Details</u></h2>
