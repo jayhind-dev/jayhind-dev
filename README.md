@@ -12,17 +12,9 @@
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
 
- - I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
+ - I'm trying to learn HTML, CSS, JavaScript, C#, C-LANGUAGE, .
  
  - My hobby is reading books, listening music, playing games.
-
- - Sometimes, I write small poems, stories too.
-
- - I make ringtones, fake screenshots, memes, meme templates in my leisure time.
- 
- - I love to collect apps, games, movies, songs, fonts, iso etc.
-
- - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
 
 </p>
 
@@ -33,14 +25,13 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
@@ -112,11 +103,11 @@
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio,kasroudra.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhind-dev&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio,jayhind-dev.github.io">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayhind-dev&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayhind-dev&theme=dracula">
 <img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+<img src="https://github-profile-trophy.vercel.app/?username=jayhind-dev&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 
 ### I've little contribution in:
